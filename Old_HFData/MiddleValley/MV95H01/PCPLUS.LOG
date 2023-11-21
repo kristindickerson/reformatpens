@@ -1,0 +1,42 @@
+rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.00
+
+TCR  - 950503171415
+
+DPR  - 0007b900
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - 20 seconds
+
+HIDR - 7 metres
+
+HRDR - 1 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4411
+
+AFR  - 10 Celsius/second
+
+>>tcr
+tcr - 950503171420
+
+>>dro
+dro - 
+950503171424    17   103   413     0   400   303   402   161   344   666   362     0 36407 32771 65535 0.00000e+00
+
+
+
+>>
+
+>>lmr
+lmr - DO (sampling OFF, on-line data ON)
+
+>>

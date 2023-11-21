@@ -1,0 +1,11 @@
+ren mv95h27a.pen mv9527a.pen
+ren mv95h27b.pen mv9527b.pen
+ren mv95h27c.pen mv9527c.pen
+ren mv95h27d.pen mv9527d.pen
+ren mv95h27e.pen mv9527e.pen
+ren mv95h27f.pen mv9527f.pen
+ren mv95h27g.pen mv9527g.pen
+ren mv95h27h.pen mv9527h.pen
+ren mv95h27i.pen mv9527i.pen
+ren mv95h27j.pen mv9527j.pen
+ren mv95h27k.pen mv9527k.pen

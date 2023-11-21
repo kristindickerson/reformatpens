@@ -1,0 +1,65 @@
+950630021820 25407 24824 24945 24909 24963 24765 24861 24900 24963 24958 24950 24916 22617 32771 65535 1.34690e+01
+
+
+
+
+>>
+
+
+>>950630021830 25406 24823 24940 24904 24953 24752 24854 24895 24961 24969 24954 24916 22638 32771 65535 1.34770e+01
+
+950630021840 25410 24820 24928 24895 24940 24738 24843 24882 24949 24978 24952 24919 22660 32771 65535 1.34570e+01
+
+950630021850 25400 24812 24914 24885 24928 24727 24836 24874 24943 24994 24956 24926 22682 32771 65535 1.34710e+01
+
+950630021900 25405 24810 24906 24878 24919 24715 24827 24870 24944 25011 24962 24939 22703 32771 65535 1.34790e+01
+
+lms d
+lms d - confirm [Y/N]: y
+DO (sampling OFF, on-line data ON)
+
+>>uid
+uid - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+>>tcr
+tcr - 950630021915
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950630021934
+
+DPR  - 0009b5e8
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - heat pulses are disabled
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 5 Celsius/second
+
+>>drt 950102030405
+drt 950102030405 - confirm [Y/N]: y
+please wait ... XMODEM ready
+
+
+
+XMODEM done
+
+>>shutdown
+shutdown - confirm [Y/N]: y
+System shut down
+

@@ -1,0 +1,70 @@
+  'CHINOoK' 
+-999.000000 -999.000000  NaN 3.50 
+instrument sensor      6      0 
+    20 
+    42      2     15 
+          NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+     1      NaN      NaN      NaN      NaN      NaN    1.770    1.749    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+     2      NaN      NaN      NaN      NaN      NaN    1.770    1.749    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+     3      NaN      NaN      NaN      NaN      NaN    1.770    1.748    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+     4      NaN      NaN      NaN      NaN      NaN    1.770    1.748    1.694    1.739    1.737    1.711      NaN      NaN      NaN 
+     5      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+     6      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.739    1.737    1.711      NaN      NaN      NaN 
+     7      NaN      NaN      NaN      NaN      NaN    1.769    1.749    1.694    1.738    1.737    1.712      NaN      NaN      NaN 
+     8      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.738    1.736    1.711      NaN      NaN      NaN 
+     9      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.738    1.737    1.711      NaN      NaN      NaN 
+    10      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+    11      NaN      NaN      NaN      NaN      NaN    1.770    1.748    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+    12      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+    13      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.738    1.737    1.711      NaN      NaN      NaN 
+    14      NaN      NaN      NaN      NaN      NaN    1.770    1.748    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+    15      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.739    1.736    1.711      NaN      NaN      NaN 
+    16      NaN      NaN      NaN      NaN      NaN    1.770    1.748    1.694    1.738    1.737    1.711      NaN      NaN      NaN 
+    17      NaN      NaN      NaN      NaN      NaN    1.769    1.748    1.694    1.738    1.736    1.711      NaN      NaN      NaN 
+    18      NaN      NaN      NaN      NaN      NaN    1.767    1.747    1.692    1.736    1.734    1.708      NaN      NaN      NaN 
+    19      NaN      NaN      NaN      NaN      NaN    1.766    1.745    1.691    1.735    1.733    1.708      NaN      NaN      NaN 
+    20      NaN      NaN      NaN      NaN      NaN    1.768    1.747    1.692    1.736    1.735    1.709      NaN      NaN      NaN 
+    21      NaN      NaN      NaN      NaN      NaN    1.873    1.835    1.764    1.801    1.802    1.777      NaN      NaN      NaN 
+    22      NaN      NaN      NaN      NaN      NaN    1.954    1.915    1.809    1.836    1.827    1.788      NaN      NaN      NaN 
+    23      NaN      NaN      NaN      NaN      NaN    1.977    1.942    1.828    1.847    1.832    1.788      NaN      NaN      NaN 
+    24      NaN      NaN      NaN      NaN      NaN    1.986    1.950    1.837    1.853    1.833    1.788      NaN      NaN      NaN 
+    25      NaN      NaN      NaN      NaN      NaN    1.991    1.954    1.843    1.858    1.834    1.788      NaN      NaN      NaN 
+    26      NaN      NaN      NaN      NaN      NaN    1.993    1.955    1.847    1.861    1.836    1.788      NaN      NaN      NaN 
+    27      NaN      NaN      NaN      NaN      NaN    1.995    1.956    1.849    1.864    1.837    1.788      NaN      NaN      NaN 
+    28      NaN      NaN      NaN      NaN      NaN    1.997    1.956    1.852    1.865    1.837    1.788      NaN      NaN      NaN 
+    29      NaN      NaN      NaN      NaN      NaN    1.998    1.957    1.853    1.867    1.838    1.788      NaN      NaN      NaN 
+    30      NaN      NaN      NaN      NaN      NaN    1.998    1.957    1.855    1.868    1.839    1.788      NaN      NaN      NaN 
+    31      NaN      NaN      NaN      NaN      NaN    1.999    1.957    1.856    1.869    1.839    1.788      NaN      NaN      NaN 
+    32      NaN      NaN      NaN      NaN      NaN    2.000    1.957    1.856    1.870    1.840    1.788      NaN      NaN      NaN 
+    33      NaN      NaN      NaN      NaN      NaN    2.000    1.957    1.857    1.871    1.840    1.788      NaN      NaN      NaN 
+    34      NaN      NaN      NaN      NaN      NaN    2.000    1.957    1.858    1.872    1.840    1.788      NaN      NaN      NaN 
+    35      NaN      NaN      NaN      NaN      NaN    2.000    1.956    1.859    1.872    1.840    1.788      NaN      NaN      NaN 
+    36      NaN      NaN      NaN      NaN      NaN    2.000    1.957    1.860    1.873    1.841    1.787      NaN      NaN      NaN 
+    37      NaN      NaN      NaN      NaN      NaN    2.000    1.956    1.860    1.873    1.841    1.788      NaN      NaN      NaN 
+    38      NaN      NaN      NaN      NaN      NaN    2.000    1.956    1.860    1.873    1.841    1.788      NaN      NaN      NaN 
+    39      NaN      NaN      NaN      NaN      NaN    2.000    1.956    1.861    1.873    1.841    1.788      NaN      NaN      NaN 
+    40      NaN      NaN      NaN      NaN      NaN    2.001    1.956    1.861    1.874    1.841    1.787      NaN      NaN      NaN 
+    41      NaN      NaN      NaN      NaN      NaN    2.000    1.956    1.861    1.874    1.841    1.787      NaN      NaN      NaN 
+    42      NaN      NaN      NaN      NaN      NaN    2.000    1.956    1.861    1.874    1.841    1.787      NaN      NaN      NaN 
+    43      NaN      NaN      NaN      NaN      NaN    7.361   10.705    9.065    7.437    9.840   11.355      NaN      NaN      NaN 
+    44      NaN      NaN      NaN      NaN      NaN    7.251    7.812    7.087    6.665    6.627    6.696      NaN      NaN      NaN 
+    45      NaN      NaN      NaN      NaN      NaN    3.998    3.931    3.771    3.721    3.606    3.523      NaN      NaN      NaN 
+    46      NaN      NaN      NaN      NaN      NaN    3.173    3.091    3.011    3.022    2.965    2.885      NaN      NaN      NaN 
+    47      NaN      NaN      NaN      NaN      NaN    2.847    2.773    2.712    2.737    2.702    2.625      NaN      NaN      NaN 
+    48      NaN      NaN      NaN      NaN      NaN    2.688    2.618    2.556    2.587    2.559    2.485      NaN      NaN      NaN 
+    49      NaN      NaN      NaN      NaN      NaN    2.579    2.511    2.448    2.479    2.454    2.383      NaN      NaN      NaN 
+    50      NaN      NaN      NaN      NaN      NaN    2.502    2.438    2.372    2.403    2.379    2.310      NaN      NaN      NaN 
+    51      NaN      NaN      NaN      NaN      NaN    2.446    2.382    2.313    2.343    2.321    2.253      NaN      NaN      NaN 
+    52      NaN      NaN      NaN      NaN      NaN    2.399    2.338    2.266    2.296    2.274    2.208      NaN      NaN      NaN 
+    53      NaN      NaN      NaN      NaN      NaN    2.363    2.302    2.229    2.259    2.236    2.170      NaN      NaN      NaN 
+    54      NaN      NaN      NaN      NaN      NaN    2.332    2.272    2.197    2.226    2.204    2.139      NaN      NaN      NaN 
+    55      NaN      NaN      NaN      NaN      NaN    2.306    2.248    2.171    2.200    2.176    2.114      NaN      NaN      NaN 
+    56      NaN      NaN      NaN      NaN      NaN    2.284    2.226    2.149    2.176    2.153    2.089      NaN      NaN      NaN 
+    57      NaN      NaN      NaN      NaN      NaN    2.265    2.208    2.129    2.157    2.132    2.070      NaN      NaN      NaN 
+    58      NaN      NaN      NaN      NaN      NaN    2.248    2.192    2.113    2.138    2.115    2.051      NaN      NaN      NaN 
+    59      NaN      NaN      NaN      NaN      NaN    2.234    2.178    2.098    2.124    2.099    2.037      NaN      NaN      NaN 
+    60      NaN      NaN      NaN      NaN      NaN    2.220    2.165    2.083    2.109    2.083    2.021      NaN      NaN      NaN 
+    61      NaN      NaN      NaN      NaN      NaN    2.208    2.154    2.072    2.098    2.072    2.010      NaN      NaN      NaN 
+    62      NaN      NaN      NaN      NaN      NaN    2.198    2.143    2.061    2.086    2.060    2.000      NaN      NaN      NaN 
+    63      NaN      NaN      NaN      NaN      NaN    2.189    2.134    2.051    2.077    2.050    1.989      NaN      NaN      NaN 
+    64      NaN      NaN      NaN      NaN      NaN    2.179    2.125    2.041    2.066    2.040    1.979      NaN      NaN      NaN 

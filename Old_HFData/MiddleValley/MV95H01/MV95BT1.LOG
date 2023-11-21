@@ -1,0 +1,88 @@
+uid
+uid - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+>>lms
+lms - missing argument
+
+>>lms d
+lms d - confirm [Y/N]: y
+DO (sampling OFF, on-line data ON)
+
+>>dro
+dro - 
+950608150628     0     0     0     0     0     0     0     0     0     0     0     0 28881 32771 65535 0.00000e+00
+
+
+
+>>
+
+>>dro
+dro - 950608150655     0     0     0     0     0     0     0     0     0     0     0     0 29107 32771 65535 0.00000e+00
+
+
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950608150753
+
+DPR  - 0003a0e0
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - 20 seconds
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4000
+
+AFR  - 10 Celsius/second
+
+>>tcs 950608221230
+tcs 950608221230 - confirm [Y/N]: y
+950608221230
+
+>>ctcr
+tcr - 950608221239
+
+>>hots 5
+hots 5 - confirm [Y/N]: y
+5 seconds
+
+>>hidr
+hidr - 30 metres
+
+>>shutdown
+shutdown - confirm [Y/N]: y
+System shut down
+
+hots
+hots - invalid number
+
+>>hotr
+hotr - 5 seconds
+
+>>hots 2
+hots 2 - confirm [Y/N]: y
+2 seconds
+
+>>fhp
+fhp - begin heat pulse, duration 2 seconds ? [Y/N]: yy
+OK
+
+>>fhp
+fhp - begin heat pulse, duration 2 seconds ? [Y/N]: y
+OK
+
+>>Timed out waiting for good input: system shut down
+

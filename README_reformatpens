@@ -1,0 +1,5 @@
+% READ ME FOR REFORMATTING PENS
+
+To reformat an existing .pen file so that it is compatible with SlugHeat22, run ReformatPens.m
+
+To reformat an existing .mat file so that it is compatible with SlugHeat22, run ReformatMats.m

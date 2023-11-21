@@ -1,0 +1,42 @@
+dro
+dro - 950613012645 22916 22659 23006 22988 22962 22791 22874 22894 22975 22935 22995     0 27235 32771 65535 0.00000e+00
+
+
+
+>>rPap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950613012701
+
+DPR  - 00053a18
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - 20 seconds
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 5 Celsius/second
+
+>>pid
+pid - bad command
+
+>>pud
+pud - bad command
+
+>>shutdown
+shutdown - confirm [Y/N]: y
+System shut down
+

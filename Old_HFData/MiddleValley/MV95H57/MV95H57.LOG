@@ -1,0 +1,168 @@
+
+
+
+>>
+
+
+>>uid
+uid - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+>>dro
+dro - 950630221819 40584 40111 39741 39611 38192 38322 38827 38215 38063 38612 38202 31600 39715 32771 65535 0.00000e+00
+
+
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950630221839
+
+DPR  - 0009b5e8
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - heat pulses are disabled
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 5 Celsius/second
+
+>>tcr
+tcr - 950630221850
+
+>>Timed out waiting for good input: system shut down
+
+
+
+
+
+>>tcr
+tcr - 950630222447
+
+>>dpc
+dpc - confirm [Y/N]: y
+00034000
+
+>>lms el - bad command
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950630222533
+
+DPR  - 00034000
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - heat pulses are disabled
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 5 Celsius/second
+
+>>Timed out waiting for good input: system shut down
+
+
+
+
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950630224420
+
+DPR  - 00034000
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - heat pulses are disabled
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 5 Celsius/second
+
+>>uid
+uid - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+>>lms e]
+lms e - confirm [Y/N]: y
+EO (sampling ON, on-line data ON)
+
+>>950630224430 39237 38662 38767 38363 37778 37603 37481 36817 36810 37197 36777 31067 40354 32771 65535 0.00000e+00
+
+950630224440 39202 38584 38728 38310 37702 37573 37470 36826 36798 37135 36732 31013 40423 32771 65535 0.00000e+00
+
+950630224450 39145 38544 38693 38240 37672 37543 37434 36804 36770 37042 36672 31000 40505 32771 65535 0.00000e+00
+
+950630224500 39132 38590 38709 38210 37659 37533 37434 36792 36725 36964 36603 30938 40591 32771 65535 1.41010e+01
+
+950630224510 39177 38640 38760 38235 37690 37556 37454 36807 36704 36923 36559 30895 40676 32771 65535 1.39840e+01
+
+950630224520 39185 38635 38765 38225 37678 37524 37437 36779 36698 36915 36547 30833 40759 32771 65535 1.40910e+01
+
+950630224530 39161 38591 38700 38165 37633 37482 37409 36757 36707 36920 36553 30770 40837 32771 65535 1.40960e+01
+
+950630224540 39063 38476 38575 38045 37527 37359 37297 36653 36586 36818 36398 30834 40911 32771 65535 1.40370e+01
+
+950701071850 25681 25466     0     0 25182     0     0 25477 26009 65535 25850     0 25895 32771 65491 0.00000e+00
+
+950701071900 25664 25477     0     0 25135     0     0 25480 25995 65535 25898     0 25909 32771 65535 0.00000e+00
+
+950701071910 25649 25480     0     0 25092     0     0 25479 25995 65535 25823     0 25924 32771 65535 0.00000e+00
+
+950701071920 25645 25476     0     0 25105     0     0 25481 25983 65535 25832     0 25938 32771 65504 0.00000e+00
+
+950701071930 25685 25486     0     0 25132     0     0 25485 25974 65535 25836     0 25952 32771 65535 0.00000e+00
+
+950701071940 25692 25482     0     0 25153     0     0 25493 25978 65535 25850     0 25966 32771 65476 0.00000e+00
+
+lms d
+lms d - confirm [Y/N]: y
+DO (sampling OFF, on-line data ON)
+
+>>drt 950102030405
+drt 950102030405 - confirm [Y/N]: y
+please wait ... XMODEM ready
+
+
+
+XMODEM done
+
+>>Timed out waiting for good input: system shut down
+

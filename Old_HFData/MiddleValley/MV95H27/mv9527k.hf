@@ -1,0 +1,36 @@
+
+            +-------------------------------------+
+            | HFLOW -- Linear Regression Analysis |
+            +-------------------------------------+
+
+
+
+      Contents of results file:
+         Station No.:          27
+         Penetration:          11
+         ID/Plot No.:        -999
+         Cruise Name:ewing 9505
+         Penname    :mv9527k   
+
+       Sensor  Sed.Temp.   63% Level    Depth    Bullard
+       Number    (deg)    Error (deg)    (m)    Depth (m)
+       ------  ---------  -----------   -----   ---------
+          1       9.903      .0003       1.26      1.580
+          3       8.551      .0003       0.86      1.130
+          4       7.870      .0002       0.66      0.899
+          5       7.172      .0003       0.46      0.663
+          6       6.478      .0002       0.26      0.417
+          7       5.782      .0003       0.06      0.147
+          9       4.393      .0003      -0.34      0.000
+         11       2.911      .0003      -0.74     -0.002
+
+
+      Regression Results for Formula: Temp = A + B * Depth
+                Number of  Depth at    Temp/    Error in             
+        Trial    Points     Temp=0     Depth   Temp/Depth   Scatter  
+        -----   ---------  --------  --------  ----------  ----------
+           1        4       -1.7443   2.9777     0.00036     23.987
+           2        5       -1.7783   2.9438     0.00026     69.540
+           3        6       -1.8296   2.8922     0.00021    166.511
+           4        7       -1.5466   3.2092     0.00018    *******
+           5        8       -1.1808   3.7393     0.00016    *******

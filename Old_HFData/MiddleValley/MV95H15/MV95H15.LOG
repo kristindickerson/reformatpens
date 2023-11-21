@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>
+
+
+>>druid
+uid - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+>>lms d
+lms d - confirm [Y/N]: y
+DO (sampling OFF, on-line data ON)
+
+>>dro
+dro - 950619080023 21900 21898 21821 21782 21909 21900 21907 21856 21840 21839 21750 21858 23329 32771 65535 1.36420e+01
+
+
+
+>>rap\
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950619080037
+
+DPR  - 0008bc88
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - 2 seconds
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 10 Celsius/second
+
+>>tcr
+tcr - 950619080058
+
+>>acr
+acr - 4489
+
+>>hots 20
+hots 20 - confirm [Y/N]: y
+20 seconds
+
+>>hrdr
+hrdr - 10 metres
+
+>>hstr
+hstr - 7 minutes
+
+>>spsr
+spr - 10 seconds
+
+>>pur 16
+pur 16 - 
+
+16: UN=8
+
+>>dpc
+dpc - confirm [Y/N]: y
+00034000
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950619080212
+
+DPR  - 00034000
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - 20 seconds
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 10 Celsius/second
+
+>>lmseo eo
+lms eo - confirm [Y/N]: y
+EO (sampling ON, on-line data ON)
+
+>>950619080300 21937 21936 21873 21860 22004 21997 22008 21976 21957 21947 21816 21888 24041 32771 65535 1.33390e+01
+
+950619080310 21933 21934 21870 21858 22002 21994 22005 21972 21952 21942 21807 21894 24070 32771 65535 1.34210e+01
+
+950619080320 21926 21924 21862 21851 21994 21985 21997 21962 21942 21930 21793 21888 24097 32771 65535 1.34030e+01
+
+950619080330 21913 21913 21852 21840 21985 21977 21989 21952 21932 21918 21782 21888 24123 32771 65535 1.33340e+01
+
+lms d
+lms d - confirm [Y/N]: y
+DO (sampling OFF, on-line data ON)
+
+>>lms e
+lms e - confirm [Y/N]: y
+EO (sampling ON, on-line data ON)
+
+>>950619080350 21915 21922 21858 21843 21988 21980 21990 21951 21930 21923 21790 21885 24173 32771 65535 1.33340e+01
+
+950619080400 21941 21953 21887 21866 22009 22004 22016 21975 21956 21955 21828 21922 24196 32771 65535 1.34210e+01
+

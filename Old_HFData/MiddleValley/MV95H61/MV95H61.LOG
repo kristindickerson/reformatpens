@@ -1,0 +1,127 @@
+
+
+
+>>
+
+
+>>uid
+uid - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950702213843
+
+DPR  - 00052870
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - 5 seconds
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 5 Celsius/second
+
+>>hotr 20
+hotr 20 - 5 seconds
+
+>>hots
+hots - invalid number
+
+>>hots 20
+hots 20 - confirm [Y/N]: ty
+20 seconds
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950702213909
+
+DPR  - 00052870
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - 20 seconds
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 5 Celsius/second
+
+>>pur 16
+pur 16 - 
+
+16: UN=8
+
+>>dro
+dro - 950702214118 28832 28598 29024 28880 29006 29072 29136 29105 29171 29334 29432 26445 34199 32771 65535 1.33620e+01
+
+
+
+>>dpc
+dpc - confirm [Y/N]: y
+00034000
+
+>>rap
+rap - 
+
+UID  - RBR Geothermal Probe Logging System, #0005302, Version 1.01
+
+TCR  - 950702214132
+
+DPR  - 00034000
+
+LMR  - DO (sampling OFF, on-line data ON)
+
+SPR  - 10 seconds
+
+HOTR - 20 seconds
+
+HIDR - 30 metres
+
+HRDR - 10 metres
+
+HSDR - 1.0 metres
+
+HSTR - 7 minutes
+
+ACR  - 4489
+
+AFR  - 5 Celsius/second
+
+>>tcr
+tcr - 950702214141
+
+>>lms eo
+lms eo - confirm [Y/N]: y
+EO (sampling ON, on-line data ON)
+
+>>950702214210 28828 28553 29049 28939 29114 29172 29229 29200 29239 29396 29477 26385 34363 32771 65535 1.32080e+01
+
+950702214220 28810 28544 29044 28937 29110 29167 29220 29198 29239 29394 29487 26355 34390 32771 65535 1.32290e+01
+
+950702214230 28783 28534 29040 28942 29110 29182 29230 29211 29257 29411 29517 26353 34417 32771 65535 1.32350e+01
+
